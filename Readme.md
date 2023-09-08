@@ -1,14 +1,16 @@
 # 
-# <h>  **InstaHyre Job Analysis with Web Scrapping, Python, SQL, Power Query, MS Excel and MS PowerPoint.**
+# <h>  **InstaHyre Job Analysis**
 
-**The depository contains the analysis of Job openings available on InstaHyre.com job portal on the basis of location, fields, profiles, years of experience required, company size etc. The Project's objectives  were to investigate accessibility of jobs and to help a person to find the most suitable jobs based on his/her eligibilities and preferences. Additionally, it compared the availability of jobs in different locations, profiles, fields, level of experience etc. Moreover, it aimed to reveal some of the dataset's hidden insights. The Webscrapping part was done with Python (Beautiful Soap, Selenium, Pandas), Data cleaning part was done with Python (Pandas) and Power Query (MS Excel), the Aggregation of Data and Formation of Tables in SQL and the Analysis of Data along with the  Visualisation in MS Excel. This project was completed under the supervision of the Instructional Associate for our batch at Masai School, Mr Sushant Ranjan within 7 days.**
+**The job market in India is constantly evolving, with new trends emerging and old ones fading away. In this project, the focus will be on analyzing the job trends in India, including the most in-demand skills, the states with the highest number of job openings, and other useful insights.**
 
+## Problem Aimed to Solve
 
+**With this project, we aim to provide a comprehensive overview of the job market in India, using data-driven analysis to identify the key trends and patterns driving the market. By understanding these trends, job seekers, employers, and policymakers can make informed decisions about their career paths, hiring strategies, and workforce development initiatives.**
 
+## Workflow of this project
 
-<br>
-<br>
-<p align="center"><a><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://user-images.githubusercontent.com/106439762/181936448-9314e858-4251-46d6-b4d1-35a4c29e9c19.svg"><img src="https://forthebadge.com/images/badges/made-with-python.svg"></a></p>
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/0fbb78b8-2eee-49f1-a632-2becfea61844)
+
 
 #  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
@@ -20,14 +22,14 @@
 | **Schema_Queries.sql**  | This file provides SQL queries of the aggregation of the data   |
 | **Job_analysis.pptx**  | This file provides the powerpoint presentation which contains all the major insights and conclusions.  |
 | **DATATA.xlsx**  | This file provides the raw data for analysis .  |
-| **COMPANY2.csv, Comp_Loc.csv, Det_Skills.csv, Details1.csv, JOBS2.csv, Role_Designation.csv**  | These files contain the final data drawn out after the data cleaning.  |
+| **COMPANY2.csv, Comp_Loc.csv, Det_Skills.csv, Details1.csv, JOBS2.csv, Role_Designation.csv**  | These files contain the final data drawn out after the data cleaning and normalization  |
 <br>
 
 
 #  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
-    
-    o       Analysed the relationship between the number of Job Openings and the Size of the companies.
+    ![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/4cc4210c-180a-42ea-b084-dc5fd4159d31)
+
     
     o	Explored the trends for the different job profiles and the number of job openings available for them.
      
