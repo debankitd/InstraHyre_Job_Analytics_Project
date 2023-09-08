@@ -27,19 +27,37 @@
 
 
 #  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
-   
-    ![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/4cc4210c-180a-42ea-b084-dc5fd4159d31)
 
+  ### o       Analysed the relationship between the number of Job Openings and the Size of the companies.
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/552238fa-e568-4851-a0fb-a6b8a21ba2c4)
+
+###    o	Explored the trends for the different job profiles and the number of job openings available for them.
+
+<br>
+
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/a597fe46-569f-4f6d-87c7-cfb3ec96cbe7)
+
+###  o	Analysed the percentage of total jobs available for diffrent Standards of Experiences.
+<br>
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/8ef0fa24-91d5-47a7-9b28-0f7aca6cb365)
+
+### o	Analysed the top skills based on number of jobs available for them.
+<br>
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/abdb36e2-bad8-4122-bfe7-5e7ba4754550)
+
+###  o	Analysed the number of jobs present in different locations.
+<br>
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/37a63ad6-937e-4fe3-b08c-6c5960ace7b8)
     
-    o	Explored the trends for the different job profiles and the number of job openings available for them.
-     
-    o	Analysed the percentage of total jobs available for diffrent Standards of Experiences.
-  
-    o	Analysed the top skills based on number of jobs available for them.
-    
-    o	Analysed the number of jobs present in different locations.
-    
-    o	Found out the Top 10 companies based on the number of jobs present in them.
+###    o	Found out the Top 10 companies based on the number of jobs present in them.
+<br>
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/435a5747-b99c-490d-a52f-11155af67b9f)
+
 
 
 #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
@@ -96,7 +114,9 @@
    
    7. LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large companies in them are creating the highest number of employment in India.
    <br>
-   
+
+   ##  <img src="https://drive.google.com/view?usp=drive_linkuc?export=view&id=1V3Hsi0FIOyu3I3dBgccXbUMUT9n4wkN5" > Dashboard
+ <p align="center"><img src="https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/f450fffb-52c4-4922-98dc-ff03aac32ca0" height="max-height" width="1000" ></p>
    
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
    
@@ -118,15 +138,3 @@
    
     
 
-![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
-
-   
- 
-
-<!--  # <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
-I'm an aspiring data analyst...
-
-
-#  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
-
-<a href="https://www.linkedin.com/in/yash-upadhyay-9b642a254/" ><img src="https://user-images.githubusercontent.com/106439762/182037233-49248ea9-c7a4-4f55-9fe4-5fe24e5ef160.png" width="48" height="48"> 
