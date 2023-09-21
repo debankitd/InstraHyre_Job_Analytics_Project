@@ -95,7 +95,26 @@
 
 <br>
 
-# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Insights
+
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Data Preperation
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/19ff8f9d-e17e-4ce2-a735-1038684a79e4)
+
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/759e9c0b-9406-42d7-bfe5-66c17920a011)
+
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/942d99af-a64d-45e7-85cc-0d78e25a2cdb)
+
+
+
+
+
+   # Dashboard
+ <p align="center"><img src="https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/f450fffb-52c4-4922-98dc-ff03aac32ca0" height="max-height" width="1000" ></p>
+   
+  
+   # <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusion
    
    1. The companies with Employee size of above 1000 employees and above 50 (under 200) employees have the highest number of Job openings, whereas companies having less than 10 employees have least number of job openings. 
    
@@ -112,8 +131,8 @@
    7. LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large companies in them are creating the highest number of employment in India.
    <br>
 
-   # Dashboard
- <p align="center"><img src="https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/f450fffb-52c4-4922-98dc-ff03aac32ca0" height="max-height" width="1000" ></p>
+   
+   
    
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
    
