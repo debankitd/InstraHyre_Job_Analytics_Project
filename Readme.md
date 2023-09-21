@@ -17,13 +17,10 @@
 | Files| Description |
 | ------------- | ------------- |
 | **FinalDashBoard.xlsx** | This file contains the Excel worksheets and dashboard of the insights. |
-| **WebScrapping.ipynb** | This file contains the ipynb code of the Web scrapping part. |
-| **Data Cleaning .ipynb** | This file contains the ipynb code of the data cleaning part. |
-| **Schema_Queries.sql**  | This file provides SQL queries of the aggregation of the data   |
-| **Job_analysis.pptx**  | This file provides the powerpoint presentation which contains all the major insights and conclusions.  |
-| **DATATA.xlsx**  | This file provides the raw data for analysis .  |
-| **COMPANY2.csv, Comp_Loc.csv, Det_Skills.csv, Details1.csv, JOBS2.csv, Role_Designation.csv**  | These files contain the final data drawn out after the data cleaning and normalization  |
-<br>
+| **Python** | This folder contains the Web scrapping and data cleaning ipynb code . |
+| **SQL Queries**  | This folder contains  the SQL queries of our analysis   |
+| **Job_analysis.pptx**  | This file provides the PowerPoint presentation which contains all the major insights and conclusions.  |
+| **Dataset**  | This folder contains the final raw data that got after web scrapping and clean data that we got after cleaning and normalized the raw data|
 
 
 #  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
