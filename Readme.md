@@ -16,11 +16,66 @@
 
 | Files| Description |
 | ------------- | ------------- |
-| **FinalDashBoard.xlsx** | This file contains the Excel worksheets and dashboard of the insights. |
+| **Dashboard** | This file contains the Excel worksheets and dashboard of the insights. |
 | **Python** | This folder contains the Web scrapping and data cleaning ipynb code . |
 | **SQL Queries**  | This folder contains  the SQL queries of our analysis   |
-| **Job_analysis.pptx**  | This file provides the PowerPoint presentation which contains all the major insights and conclusions.  |
+| **PowerPointPresentation**  | This file provides the PowerPoint presentation which contains all the major insights and conclusions.  |
 | **Dataset**  | This folder contains the final raw data that got after web scrapping and clean data that we got after cleaning and normalized the raw data|
+
+
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
+
+    1. Started with scrapping of the data from InstaHyre's website with Python and saving it into CSV files, imported the CSV files into an Excel file.
+    
+    2. Did the Data cleaning part with the help of Pandas and Power Query (MS Excel), imported the CSVs into MySQL for further analysis. 
+ 
+    3. Imported CSVs in MySQL, created tables using Group By, Join, Trim, Constraints etc.
+    
+    4. Exported all the tables from MySQL to MS Excel and created required tables to gain some insights.
+    
+    5. Performed in depth analysis of the data in MS Excel using Pivot tables and charts.
+    
+    6. Created different charts from the table for better understanding of the data.
+    
+    7. Also Designed a Interactive Dashboard from the charts for better visualisation.
+    
+    8. Created some useful drop-downs for fetching the required Data like Standard Experience, Standard Role (Profiles) and Location.
+    
+    9. Created a Powerpoint presentation with all the insights and the conclusions listed with the in depth analysis.
+    
+
+
+<br>
+
+
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Data Preperation
+
+###  o Web Scrapping 
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/8aaf6bc1-7aaf-4800-94d5-d299f80c6157)
+
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/8ca3ce94-c5a5-408c-b9ab-05fb583a6521)
+
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/65b225f5-1d81-4de3-b082-04487a1a39d2)
+
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/c49b445c-1e79-4a30-9d1c-30e4cd4deec6)
+
+
+After Scrapping the data 
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/19ff8f9d-e17e-4ce2-a735-1038684a79e4)
+
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/759e9c0b-9406-42d7-bfe5-66c17920a011)
+
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/942d99af-a64d-45e7-85cc-0d78e25a2cdb)
+
+
+
+
+
 
 
 #  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
@@ -70,41 +125,6 @@
 
 
 <br>
-
-# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
-
-    1. Started with scrapping of the data from InstaHyre's website with Python and saving it into CSV files, imported the CSV files into an Excel file.
-    
-    2. Did the Data cleaning part with the help of Pandas and Power Query (MS Excel), imported the CSVs into MySQL for further analysis. 
- 
-    3. Imported CSVs in MySQL, created tables using Group By, Join, Trim, Constraints etc.
-    
-    4. Exported all the tables from MySQL to MS Excel and created required tables to gain some insights.
-    
-    5. Performed in depth analysis of the data in MS Excel using Pivot tables and charts.
-    
-    6. Created different charts from the table for better understanding of the data.
-    
-    7. Also Designed a Interactive Dashboard from the charts for better visualisation.
-    
-    8. Created some useful drop-downs for fetching the required Data like Standard Experience, Standard Role (Profiles) and Location.
-    
-    9. Created a Powerpoint presentation with all the insights and the conclusions listed with the in depth analysis.
-    
-
-
-<br>
-
-
-# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Data Preperation
-
-![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/19ff8f9d-e17e-4ce2-a735-1038684a79e4)
-
-
-![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/759e9c0b-9406-42d7-bfe5-66c17920a011)
-
-
-![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/942d99af-a64d-45e7-85cc-0d78e25a2cdb)
 
 
 
