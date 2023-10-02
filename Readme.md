@@ -63,12 +63,23 @@
 ![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/c49b445c-1e79-4a30-9d1c-30e4cd4deec6)
 
 
-After Scrapping the data 
-![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/19ff8f9d-e17e-4ce2-a735-1038684a79e4)
+###  After Scrapping the data  from the Instrahyre Website, the raw data  is shown below 
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/09def753-b7ec-4d42-90c8-4bf0b25f5ffc)
+
+### After getting the raw data, All the NULL values were removed in the data cleaning process and the column Skills and Location which we had comma-separated values, split into individual rows
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/299fa030-066c-4dec-b4a1-7c173b7da849)
+
+### We standardized the data, based on which we provided our Analysis
 
 
 ![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/759e9c0b-9406-42d7-bfe5-66c17920a011)
 
+
+![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/7598fc03-3a80-4da9-9acf-29f2254c3d78)
+
+### After Cleaning the data, We normalized the data into separate tables, established relationships between those tables using Primary and Foreign Key logic and Create a Data Model as shown below:
 
 ![image](https://github.com/debankitd/InstraHyre_Job_Analytics_Project/assets/96534823/942d99af-a64d-45e7-85cc-0d78e25a2cdb)
 
@@ -170,7 +181,18 @@ After Scrapping the data
    
    6. Empowerment of common people with the relevant information that can help them to secure employment, reduce the accessability gap between the companies and the job seekers and aid to the raising employment rate of the country.
    
-   
-   
-    
 
+
+ # <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Challlenges and Key Learning
+
+  **1. Web Scrapping:** When Scrapping a Larger dataset, there were errors and mismatches of details in data. 
+   
+  **2. Data Modeling:**  Connecting each Pivot Chart in Excel to various tables in the MySQL database posed challenges. Consequently, a view was created that integrated 
+       data from different tables and imported into Excel. This issue could have been avoided if Power BI had been used for data visualization.
+
+
+
+
+
+   
+  
